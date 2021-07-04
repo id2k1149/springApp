@@ -2,38 +2,39 @@ package org.id2k1149;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
+import java.util.List;
 import java.util.Random;
 
 @Component
 public class MusicPlayer {
-    private ClassicalMusic classicalMusic;
-    private RockMusic rockMusic;
-    private JazzMusic jazzMusic;
+    @Value("${musicPlayer.name}")
+    private String name;
 
-    @Autowired
-    public MusicPlayer(ClassicalMusic classicalMusic,
-                       RockMusic rockMusic,
-                       JazzMusic jazzMusic) {
-        this.classicalMusic = classicalMusic;
-        this.rockMusic = rockMusic;
-        this.jazzMusic = jazzMusic;
+    @Value("${musicPlayer.volume}")
+    private int volume;
+
+    public String getName() {
+        return name;
     }
 
-    public void playMusic(Genre genre) {
-        Random random = new Random();
+    public int getVolume() {
+        return volume;
+    }
 
-        int randomNumber = random.nextInt(3);
+    private Music music1;
+    private Music music2;
 
-        if (genre == Genre.CLASSICAL) {
-            // случайная классическая песня
-            System.out.println(classicalMusic.getSongs().get(randomNumber));
-        } else if (genre == Genre.JAZZ) {
-                System.out.println(jazzMusic.getSongs().get(randomNumber));
-            } else {
-            // случайная рок песня
-            System.out.println(rockMusic.getSongs().get(randomNumber));
-        }
+    @Autowired
+    public MusicPlayer(@Qualifier("rockMusic") Music music1,
+                       @Qualifier("jazzMusic") Music music2) {
+        this.music1 = music1;
+        this.music2 = music2;
+    }
+
+    public String playMusic() {
+        return "Playing: " + music1.getSong() + ", " + music2.getSong();
     }
 }
