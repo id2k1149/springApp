@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6142aeb3-3dda-4ab9-9961-3b1deac601d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/musicPlayer.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/id2k1149/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/id2k1149/MusicPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/id2k1149/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/id2k1149/TestSpring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
@@ -84,6 +86,7 @@
       <list>
         <item itemvalue="Application.TestSpring" />
         <item itemvalue="Application.TestSpring" />
+        <item itemvalue="Application.TestSpring" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +128,21 @@
       <option name="project" value="LOCAL" />
       <updated>1625405782218</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lesson06">
+      <created>1625410164283</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1625410164283</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lesson06">
+      <created>1625410470837</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1625410470837</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +164,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="lesson02" />
     <MESSAGE value="lesson02_b" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson02_b" />
+    <MESSAGE value="lesson06" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson06" />
   </component>
 </project>
