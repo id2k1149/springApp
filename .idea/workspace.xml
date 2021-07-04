@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6142aeb3-3dda-4ab9-9961-3b1deac601d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/id2k1149/SpringConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/id2k1149/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/id2k1149/ClassicalMusic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/id2k1149/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/id2k1149/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/id2k1149/JazzMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/id2k1149/JazzMusic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/id2k1149/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/id2k1149/MusicPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/id2k1149/RockMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/id2k1149/RockMusic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/id2k1149/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/id2k1149/TestSpring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/id2k1149/TestSpring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/id2k1149/TestSpring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/id2k1149/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/id2k1149/SpringConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
