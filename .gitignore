@@ -1,8 +1,4 @@
-# Default ignored files
 /shelf/
-.idea
-workspace.xml
-out
-target
+/.idea/
+/target/
 *.iml
-log
