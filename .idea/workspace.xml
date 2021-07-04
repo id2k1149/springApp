@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6142aeb3-3dda-4ab9-9961-3b1deac601d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/id2k1149/SpringConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/id2k1149/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/id2k1149/ClassicalMusic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/id2k1149/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/id2k1149/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/id2k1149/JazzMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/id2k1149/JazzMusic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/id2k1149/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/id2k1149/MusicPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/id2k1149/RockMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/id2k1149/RockMusic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/id2k1149/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/id2k1149/TestSpring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/id2k1149/TestSpring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/id2k1149/TestSpring.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Lesson14_SpringMVC" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,19 +69,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestSpring" />
         <item itemvalue="Application.TestSpring" />
         <item itemvalue="Application.TestSpring" />
         <item itemvalue="Application.TestSpring" />
@@ -153,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625435454943</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="lesson13_hw">
+      <created>1625438582808</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1625438582808</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +164,7 @@
     <MESSAGE value="lesson02_b" />
     <MESSAGE value="lesson10_3" />
     <MESSAGE value="lesson12" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson12" />
+    <MESSAGE value="lesson13_hw" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson13_hw" />
   </component>
 </project>
